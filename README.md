@@ -1,7 +1,7 @@
 jsonrpc-c
 =========
 
-JSON-RPC in C (server only for now)
+JSON-RPC in C (server only for now). This fork is without using libev. We may not have libev in platforms. 
 
 What?
 -----
